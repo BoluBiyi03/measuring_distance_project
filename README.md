@@ -14,9 +14,9 @@ In this project, we aim to create an intelligent system for object avoidance usi
 4) Buzzer
 5) LED 
 ## Circuit Design
-[Schematic Capture]()
+[Schematic Capture](https://drive.google.com/file/d/1-lPaWQ_OKDvLSlNSuEwufjCW1p5dBf6Y/view?usp=sharing)
 
-[Circuit Digram]()
+[Circuit Digram](https://drive.google.com/file/d/1o0AH5swX3_jD-WcBiESZuNeC0iEYcGVn/view?usp=sharing)
 ## Source Code 
 ``` cpp
 /*
